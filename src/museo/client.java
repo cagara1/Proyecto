@@ -10,7 +10,7 @@ public class client extends Thread {
 
     private final museo museos;
     int numerocliente = 0;
-    int totalclientes = 5;
+    int totalclientes = 1000;
     /**
      * Constuctor de cliente.
      * @param museo Es el parametro del museo donde asisten
