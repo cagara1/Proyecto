@@ -1,7 +1,7 @@
 package museo;
 
 import java.util.concurrent.Semaphore;
-sd
+sdasdasd
 /**
  * Clase museo que tiene los metodos para ir trabajando con los clientes.
  *
