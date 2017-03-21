@@ -12,7 +12,7 @@ public class museo {
 
     public static boolean salaespera, exposicion;
     static Semaphore semaphore = new Semaphore(1);
-    /**
+    /**asdasd
      * Constucor de la clase museo
      */
     public museo() {
