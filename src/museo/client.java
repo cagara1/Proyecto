@@ -5,7 +5,7 @@ package museo;
  *
  * @author Carlos Garrobo Raya
  * @version 15/12/2016
- */
+ */asd
 public class client extends Thread {
 
     private final museo museos;
